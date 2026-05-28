@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="119.06"
+          width="119.10"
           height="8"
           fill="#e34c26"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="119.06"
+          x="119.10"
           y="0"
-          width="89.18"
+          width="89.15"
           height="8"
           fill="#adb2cb"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="208.24"
+          x="208.25"
           y="0"
-          width="34.24"
+          width="34.23"
           height="8"
           fill="#555555"
         />
@@ -210,17 +210,17 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 47.63%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 47.64%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#adb2cb" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">VHDL 35.67%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">VHDL 35.66%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C 13.70%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">C 13.69%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 900ms">
